@@ -1,4 +1,4 @@
-# Kitchens¡nk EAP Example APP
+# Kitchensink EAP Example APP
 
 The **kitchensink** quickstart demonstrates a Jakarta EE 8 web-enabled database application using JSF, CDI, EJB, JPA, and Bean Validation.
 
